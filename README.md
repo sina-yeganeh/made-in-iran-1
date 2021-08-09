@@ -46,6 +46,7 @@ Please review our [contributing guidelines](https://github.com/mohebifar/made-in
 :star2: | Name | Description | 🌍
 --- | --- | --- | ---
 50 | [@ganjoor](https://github.com/ganjoor)/[**ganjoor-api**](https://github.com/ganjoor/ganjoor-api) | Ganjoor.net REST API | [:arrow_upper_right:](https://ganjoor.net)
+3 | [@sina-yeganeh](https://github.com/sina-yeganeh)/[**nodejs-hackernews-clone**](https://github.com/sina-yeganeh/nodejs-hackernews-clone) | Persian hacker news clone | 
 
 
 <h3><a name="javascript"></a>JavaScript</h3>
