@@ -11,7 +11,8 @@
     {
       "category": "TypeScript",
       "repos": [
-        "ganjoor/ganjoor-api"
+        "ganjoor/ganjoor-api",
+        "sina-yeganeh/nodejs-hackernews-clone"
       ]
     },
     {
